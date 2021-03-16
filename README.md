@@ -30,8 +30,7 @@ RULES OF THE GAME ARE AS FOLLOWS:
 
 8.If you are not able to guess the word, you lose, and the game ends.
 
-9. The player can choose to play again or exit the game.
- 
+9. The player can choose to play again or exit the game. 
  
 Key features of the game:
 
